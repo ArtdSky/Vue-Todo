@@ -1,19 +1,9 @@
-# vue-crash-course
+# Vue crash-training with mini Todo app 
 
-## Project setup
-```
-npm install
-```
+*This is my first knowlege about Vue.js from crash-course by Vladilen Minin*
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+*projct use:*
 
-### Compiles and minifies for production
-```
-npm run build
-```
+*https://jsonplaceholder.typicode.com as backend-data*
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*https://loading.io/css   as preloader*
